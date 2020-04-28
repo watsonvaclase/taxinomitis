@@ -46,8 +46,8 @@
             "LOGIN": "Para comenzar: "
         },
         "FURTHER": {
-            "TITLE": "Further learning",
-            "BODY": "Machine Learning for Kids is a useful tool for introducing children to how ML systems are trained, how they are used, and some of the real-world implications of AI applications. <br/><br/>For additional teaching and learning resources, including teaching the internals of ML systems, please see: "
+            "TITLE": "Aprendizaja adicional",
+            "BODY": "Machine Learning for Kids es una herramienta útil para presentarles a los niños cómo se entrenan los sistemas ML, cómo se usan y algunas de las implicaciones del mundo real de las aplicaciones de IA. <br/><br/>Para recursos adicionales de enseñanza y aprendizaje, incluida la enseñanza de los elementos internos de los sistemas de aprendizaje automático, por favor ver: "
         }
     },
     "NEWS": {
@@ -62,54 +62,56 @@
         }
     },
     "LINKS": {
-        "TITLE": "Educational AI resources for children",
-        "INTRO": "This page is a list of further tools and resources for introducing children to artificial intelligence.",
+        "TITLE": "Recursos Educativos sobre IA para niños",
+        "INTRO": "Esta página es una lista de otras herramientas y recursos para presentar a los niños la inteligencia artificial.",
         "ECRAFT2LEARN": {
-            "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> has created resources to allow beginners to create AI programs in Snap! (a visual programming environment similar to Scratch).",
-            "BODY2": "While I've focused on explaining how AI systems are trained and behave (and the real-world implications), eCraft2Learn has fantastic resources that dive deep into how ML systems actually work.",
-            "BODY3": "The <a href='https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html' target='_blank'>neural net Tic Tac Toe project</a> is particularly fascinating, allowing students to experiment with hyperparameters from Snap."
+            "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> ha creadp recursos que permite crear programas de IA en Snap para principiantes (es un entorno de programación similar a Scratch).",
+            "BODY2": "Si bien me he centrado en explicar cómo se entrenan y se comportan los sistemas de IA (y las implicaciones del mundo real), eCraft2Learn tiene recursos fantásticos que profundizan en cómo funcionan realmente los sistemas de ML.",
+            "BODY3": "El <a href='https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html' target='_blank'>proyecto neural net Tic Tac Toe </a> es particularmente fascinante, ya que permite a los estudiantes experimentar con hiperparámetros de Snap."
         },
         "STEMLEARNING": {
-            "BODY1": "STEM Learning and the UK Department for Business, Energy and Industrial Strategy have created resources for teaching the principles of artificial intelligence.",
-            "BODY2": "These resources include <em>Machine Learning for Kids</em> projects, supplemented with teaching notes, presentation materials, prompt cards, and practical “unplugged” activities"
+            "BODY1": "STEM Learning y el Departamento de Estrategia Comercial, Energética e Industrial del Reino Unido han creado recursos para enseñar los principios de la inteligencia artificial.",
+            "BODY2": "Estos recursos incluyen proyectos de <em> Aprendizaje automático para niños </em>, complementados con notas didácticas, materiales de presentación, tarjetas de sugerencias y actividades prácticas "desconectadas"
         },
         "RASPBERRYPI": {
-            "BODY1": "The Raspberry Pi Foundation provides resources for Code Clubs, with step-by-step instructions for a variety of creative projects.",
-            "BODY2": "Their machine learning pathway includes a variety of projects from <em>Machine Learning for Kids</em>."
+            "BODY1": "La Fundación Raspberry Pi proporciona recursos para Code Clubs, con instrucciones paso a paso para una variedad de proyectos creativos.",
+            "BODY2": "Su vía de aprendizaje automático incluye una variedad de proyectos de <em> Machine Learning for Kids</em>."
         },
         "APPSFORGOOD": {
-            "BODY1": "Apps for Good are a UK-based not-for-profit that creates resources for teaching technology subjects, that they make freely available to schools.",
-            "BODY2": "Their Machine Learning course uses <em>Machine Learning for Kids</em>, and supplements it with a range of additional materials like schemes of work, lesson plans, student workbooks, presentations and more. It makes it easy for schools to deliver ML lessons that put the coding exercises in context."
+            "BODY1": "Apps for Good es una organización sin fines de lucro con sede en el Reino Unido que crea recursos para la enseñanza de asignaturas de tecnología que ponen a disposición de las escuelas de forma gratuita.",
+            "BODY2": "Su curso de Aprendizaje automático usa <em> Aprendizaje automático para niños </em> y lo complementa con una gama de materiales adicionales como esquemas de trabajo, planes de lecciones, libros de trabajo de los estudiantes, presentaciones y más. Facilita a las escuelas impartir lecciones de aprendizaje automático que ponen los ejercicios de codificación en contexto."
         },
         "AIFAMILYCHALLENGE": {
-            "BODY1": "The AI Family Challenge is a free, hands-on AI education program for families. They use <em>Machine Learning for Kids</em>, and supplement it with a lot of additional support, such as technical coaches and mentors, a structured lesson plan and supporting videos.",
-            "BODY2": "The program is based around a competition that challenges children to think of their own AI project ideas, with the support of their families and technical mentors."
+            "BODY1": "AI Family Challenge es un programa educativo gratuito y práctico sobre IA para familias. Utilizan <em> Aprendizaje automático para niños </em> y lo complementan con una gran cantidad de apoyo adicional, como entrenadores técnicos y mentores, un plan de lección estructurado y videos de apoyo.",
+            "BODY2": "El programa se basa en una competencia que desafía a los niños a pensar en sus propias ideas de proyectos de IA, con el apoyo de sus familias y mentores técnicos."
         },
         "MAGENTADEMOS": {
-            "BODY1": "Online toys that demonstrate different aspects of machine learning, using TensorFlow.js"
+            "BODY1": "Juguetes en línea que demuestran diferentes aspectos del aprendizaje automático, utilizandoTensorFlow.js"
         },
         "AIINSCHOOLS": {
-            "BODY1": "The AIinSchools programme provides a free lesson plan for teachers to explain AI to Year 9 (aged 13-14).",
-            "BODY2": "It includes both unplugged classroom activities, and programming activities for training neural networks on GPUs running on AWS."
+            "BODY1": "El programa AIinSchools proporciona un plan de lección gratuito para que los maestros expliquen la IA al año 9 (de 13 a 14 años).",
+            "BODY2": "Incluye actividades de aula desconectadas y actividades de programación para entrenar redes neuronales en GPU que se ejecutan en AWS."
         },
         "TEENSINAI": {
-            "BODY1": "Teens in AI use a combination of hackathons, accelerators and bootcamps to support young people aged 12-18 to explore AI."
+            "BODY1": "Los adolescentes en IA usan una combinación de hackatones, aceleradores y bootcamps para ayudar a los jóvenes de 12 a 18 años a explorar la IA."
         },
         "AI4ALL": {
-            "BODY1": "AI4ALL run summer camps for high school students in the US that give a detailed technical introduction to AI."
+            "BODY1": "AI4ALL organiza campamentos de verano para estudiantes de secundaria en los EE. UU. Que ofrecen una introducción técnica detallada a la IA."
         },
         "CALYPSO": {
-            "BODY1": "Students with programmable Cozmo robots can use the Calypso programming framework to get a hands-on way to experience AI by experimenting with techniques like computer vision and speech recognition."
+            "BODY1": "Los estudiantes con robots programables de Cozmo pueden usar el marco de programación Calypso para obtener una forma práctica de experimentar la IA al experimentar con técnicas como la visión por computadora y el reconocimiento de voz.
+
+"
         },
         "AIINABOX": {
-            "BODY1": "AI-in-a-Box is a bundle of robots, accessories and teaching resources. The kit can be used to teach projects that cover topics like visual recognition, facial recognition, speech generation and speech recognition."
+            "BODY1": "AI-in-a-Box es un paquete de robots, accesorios y recursos didácticos. El kit se puede usar para enseñar proyectos que cubren temas como el reconocimiento visual, el reconocimiento facial, la generación del habla y el reconocimiento del habla."
         },
         "GOOGLEEXPERIMENTS": {
-            "BODY1": "Simple online experiments to start exploring machine learning, through pictures, drawings, language, and music."
+            "BODY1": "Experimentos sencillos en línea para comenzar a explorar el aprendizaje automático, a través de imágenes, dibujos, lenguaje y música."
         },
         "VIDEOS": {
             "TITLE": "Videos",
-            "INTRO": "I've also found these videos useful when introducing AI concepts:"
+            "INTRO": "También he encontrado útiles estos videos al presentar conceptos de IA:"
         }
     },
     "ERRORS": {
@@ -243,67 +245,71 @@
             "TOOLONG": "¡Demasiado largo!"
         },
         "WARNINGS": {
-            "MLCRED-TEXT-NOKEYS": "Please let your teacher know that they will need to add a \"Watson Assistant API key\" to your class to let you train the machine learning model for your new project",
-            "MLCRED-IMG-NOKEYS": "Please let your teacher know that they will need to add a \"Visual Recognition API key\" to your class to let you train the machine learning model for your new project",
-            "MLCRED-TEXT-INVALID": "There might be a problem with the IBM Cloud API keys you will need to train a machine learning model for your new project. Please ask your teacher to try verifying the \"Watson Assistant API keys\" in your class.",
-            "MLCRED-IMG-INVALID": "There might be a problem with the IBM Cloud API keys you will need to train a machine learning model for your new project. Please ask your teacher to try verifying the \"Visual Recognition API keys\" in your class."
+            "MLCRED-TEXT-NOKEYS": "Informe a su maestro que necesitará agregar una \ "Watson Assistant API Key \" para poder entrenar el modelo de aprendizaje automático para tu nuevo proyecto",
+            "MLCRED-IMG-NOKEYS": "Informe a su maestro que necesitará agregar una \"Visual Recognition API key\" para poder entrenar el modelo de aprendizaje automático para tu nuevo proyecto",
+            "MLCRED-TEXT-INVALID": "Debe haber un problema con la API de IBM Cloud API que necesitas para entrenar el modelo de aprendizaje automático para tu nuevo proyecto. Por favor pide a tu profesor que verifique la \"Watson Assistant API keys\" de tu clase .",
+            "MLCRED-IMG-INVALID": "Debe haber un problema con la API de IBM Cloud API que necesitas para entrenar el modelo de aprendizaje automático para tu nuevo proyecto. Por favor pide a tu profesor que verifique la \"Visual Recognition API keys\" de tu clase."
         }
     },
     "DATASETS": {
         "TITLE": "Copy a machine learning project template",
         "INTRO": {
-            "INTRO_1": "You can create new machine learning project based on one of these templates.",
-            "INTRO_2": "Each one includes a set of training data that has been collected for you to help you get started quickly. ",
-            "INTRO_3": "You will be able to make changes to the training data if you like, or you can go straight to training a machine learning model with it. "
+            "INTRO_1": "Puedes crear un nuevo proyecto de aprendizaje automático basado en una de estas plantillas.",
+            "INTRO_2": "Cada uno incluye un conjunto de datos de capacitación que se han recopilado para ayudarte a comenzar rápidamente. ",
+            "INTRO_3": "Puedes realizar cambios en los datos de entrenamiento si quieres, o puedesir directamente a entrenar un modelo de aprendizaje automático con él. "
         },
-        "IMPORT": "Import",
+        "IMPORT": "Importar",
         "MORE": {
-            "TITLE": "Other data sets",
-            "SUMMARY": "What other data sets would you like to see?",
-            "DESCRIPTION": "Have you got an idea for a data set you'd like to see available here? Or do you have a data set that you'd like to contribute? Please get in touch!",
-            "MOREINFO": "More..."
+            "TITLE": "Otros conjuntos de datos",
+            "SUMMARY": "¿Qué otros conjuntos de datos te gustaría ver?",
+            "DESCRIPTION": "Si tienes alguna idea para un conjunto de datos que te gustaría ver disponible, o tienes un conjunto de datos con los que te gustaría contribuir, ¡Por favor ponte en contacto con nosotros!",
+            "MOREINFO": "Más..."
         },
         "DATA": {
             "TITANIC": {
-                "TITLE": "Titanic survivors",
-                "SUMMARY": "Predict survival on the Titanic",
-                "DESCRIPTION": "On 15th April 1912, the RMS Titanic hit an iceberg and sank, killing over 1500 of the passengers and crew. This project includes personal data about hundreds of the passengers. You can use this to train a machine learning model that, if you give it a description of a passenger, can learn to predict the likelihood that they would have survived. ",
-                "DETAILS": "The 'ticket class' field is a number indicating the type of ticket for the passenger: first class (1), second class (2), or third class (3). \nThe 'gender' field is whether the passenger was 'male' or 'female'. \nThe 'age' field is the age of the passenger. \nThe 'sibl. sp.' is the number of brothers or sisters (siblings) the passenger had on board if they were a child, or the number of husbands or wives (spouses) the passenger had on board if they were an adult. \nThe 'par. ch.' field is the number of parents the passenger had on board if they were a child, or the number of children the passenger had on board if they were an adult. \nThe 'ticket fare' field is how much they paid for their ticket. \nThe 'embarked' field is where they got on board the Titanic, either Cherbourg, Queenstown or Southampton."
+                "TITLE": "Sobrevivientes del Titanic",
+                "SUMMARY": "Predecir supervivencia en el Titanic",
+                "DESCRIPTION": "El 15 de abril de 1912, el RMS Titanic golpeó un iceberg y se hundió, matando a más de 1500 de los pasajeros y la tripulación. Este proyecto incluye datos personales sobre cientos de pasajeros. Puedes usar esto para entrenar un modelo de aprendizaje automático que, si le da una descripción de un pasajero, puede aprender a predecir la probabilidad de que hubiera sobrevivido. ",
+                "DETAILS": "el campo 'ticket class' es un número que indica el tipo de boleto para el pasajero: primera clase (1), segunda clase (2) o tercera clase (3). \nEl campo 'gender' indica si el pasajero es hombre o mujer (male' or 'female'). \nEl campo 'age' es la edad del pasajero. \nEl 'sibl. sp.' es el número de hermanas o hermanos (siblings) que el pasajero tenía a bordo si eran niños, o la cantidad de esposos o esposas (cónyuges) que el pasajero tenía a bordo si eran adultos. \nEl campo 'par. ch.' el campo es el número de padres que el pasajero tenía a bordo si eran niños, o el número de hijos que el pasajero tenía a bordo si eran adultos. \nEl campo 'ticket fare' es cuánto pagaron por su pasaje. \nEl campo 'embarked' field es dónde subieron a bordo del Titanic, si en Cherbourg, Queenstown o Southampton."
             },
             "CATSANDDOGS": {
-                "TITLE": "Cats and Dogs",
-                "SUMMARY": "Recognize photos of cats vs dogs",
-                "DESCRIPTION": "Training a machine learning model to recognise photos of cats and dogs is a good simple introduction to image recognition.",
-                "DETAILS": "This training dataset of photos from Wikimedia Commons is a good starting set for building your own training data of animal photos"
+                "TITLE": "Gatos y Perros",
+                "SUMMARY": "Reconoce fotos de gatos vs perros",
+                "DESCRIPTION": "El entrenamiento de un modelo de aprendizaje automático para reconocer fotos de gatos y perros es una buena introducción simple al reconocimiento de imágenes.",
+                "DETAILS": "Este conjunto de datos de entrenamiento de fotos de Wikimedia Commons es un buen conjunto de inicio para construir sus propios datos de entrenamiento de fotos de animales."
             },
             "UKNEWSPAPERS": {
-                "TITLE": "UK Newspaper Headlines",
-                "SUMMARY": "Recognize the use of language in newspaper headlines",
-                "DESCRIPTION": "Different newspapers use language in different ways. This project includes the main front page headline from four UK newspapers. You can use this to train a machine learning model that can learn to predict the most likely newspaper that a new headline is probably from. ",
-                "DETAILS": "This training dataset includes headlines from the Daily Mail, the Daily Telegraph, the Independent, and The Guardian"
+                "TITLE": "UK Titulares de los periódicos",
+                "SUMMARY": "Reconocer el uso del lenguaje en los titulares de los periódicos.",
+                "DESCRIPTION": "Diferentes periódicos usan el lenguaje de diferentes maneras. Este proyecto incluye el titular principal de la portada de cuatro periódicos del Reino Unido. Puede usar esto para entrenar un modelo de aprendizaje automático que pueda aprender a predecir el periódico más probable del que probablemente provenga un nuevo titular.
+
+ ",
+                "DETAILS": "Este conjunto de datos de capacitación incluye titulares del Daily Mail, Daily Telegraph, The Independent y The Guardian."
             },
             "PHISHING": {
                 "TITLE": "Phishing",
-                "SUMMARY": "Predict if a link is a phishing link",
-                "DESCRIPTION": "Phishing is when a website tries to trick you into giving up sensitive information, by sending you a link to a fake website disguised like a trustworthy one. You can use this to train a machine learning model that can predict if a web address is a real link, or a phishing link to a fake website.",
-                "DETAILS": "This training dataset includes attributes of five hundred legitimate web addresses, and five hundred phishing links.\n\nThe 'address type' field is 'IP addr' if the link has a numeric IP address like '104.20.74.246' or 'DNS name' if the link has a name-based address like 'machinelearningforkids.co.uk'. \nThe 'url length' field groups the training addresses by how long they are. \nThe 'shortening' field is 'yes' if the web address uses a shortening service like TinyURL or bit.ly, or 'no' if it doesn't. \nThe 'includes @' field is 'yes' if the web address includes an @ symbol, or 'no' if it doesn't. \nThe 'port number' field is 'standard' if the web address uses a standard port number like 80 or 443, or 'non-std' if it uses something different. \nThe 'domain age' field groups addresses by how long ago the web address in the address was registered. \nThe 'redirects' field groups the training addresses by the number of times a web browser is sent to a different address before reaching a final page. \nThe 'domain reg' field is 'expiring' if the registration for the web address domain name expires within a year."
+                "SUMMARY": "Predecir si un enlace es un enlace de phishing",
+                "DESCRIPTION": "La suplantación de identidad es cuando un sitio web intenta engañarlo para que renuncie a información confidencial, enviándole un enlace a un sitio web falso disfrazado de confiable. Puede usar esto para entrenar un modelo de aprendizaje automático que pueda predecir si una dirección web es un enlace real o un enlace de phishing a un sitio web falso.",
+                "DETAILS": "Este conjunto de datos de capacitación incluye atributos de quinientas direcciones web legítimas y quinientos enlaces de phishing.\n\nEl campo 'address type' es 'IP addr' si el enlace tiene una IP numérica como '104.20.74.246' o 'DNS name' si el enlace tiene una dirección basada en nombre como 'machinelearningforkids.co.uk'. \nEl campo 'url length'  agrupa las direcciones de según lo larga que son. \nEl campo 'shortening' es 'yes' si la dirección de la web usa servicio para acortar del tipo TinyURL or bit.ly, o 'no' si no lo utiliza. \nEl campo 'includes @' es 'yes' si la dirección incluye el simbolo @, o 'no' si no lo utiliza. \nEl campo 'port number' es 'standard' si la dirección web usa un número de puerto estándar como 80 o 443, o 'non-std' si usa algo diferente. \nEl campo 'domain age'  agrupa las direcciones por cuánto tiempo hace que se registró la dirección web en la dirección. \nEl campo 'redirects' agrupa las direcciones de entrenamiento por la cantidad de veces que se envía un navegador web a una dirección diferente antes de llegar a una página final. \nEl campo 'domain reg' es 'expiring' si el registro del nombre de dominio de la dirección web caduca dentro de un año."
             },
             "NOUGHTSANDCROSSES": {
-                "SUMMARY": "Learn how to play a game",
-                "DESCRIPTION": "Train a machine learning model to play noughts and crosses, by collecting examples of moves that the computer can use to learn how to predict the best move to make next.",
-                "DETAILS": "This is an empty template to help you collect your own training data. For instructions on how to use it, download 'Noughts and Crosses' from Worksheets"
+                "SUMMARY": "Aprende a jugar un juego",
+                "DESCRIPTION": "Entrena un modelo de aprendizaje automático para jugar ceros y cruces, mediante la recopilación de ejemplos de movimientos que la computadora puede usar para aprender a predecir el mejor movimiento para hacer a continuación.
+
+",
+                "DETAILS": "Esta es una plantilla vacía para ayudarlo a recopilar sus propios datos de entrenamiento. Para obtener instrucciones sobre cómo usarlo, descargue 'Noughts and Crosses' desde hojas de trabajo"
             },
             "TOPTRUMPS": {
-                "TITLE": "Kings & Queens Top Trumps",
-                "SUMMARY": "Learn how to play a game",
-                "DESCRIPTION": "Train a machine learning model to play a Top Trumps game based on English Kings and Queens, by collecting examples of moves that the computer can use to learn how to predict which value to choose.",
-                "DETAILS": "This is an empty template to help you collect your own training data. For instructions on how to use it, download 'Top Trumps' from Worksheets."
+                "TITLE": "Triunfos de Reyes y Reinas",
+                "SUMMARY": "Aprende a jugar un juego",
+                "DESCRIPTION": "Entrene a un modelo de aprendizaje automático para jugar un juego Top Trumps basado en English Kings and Queens, mediante la recopilación de ejemplos de movimientos que la computadora puede usar para aprender a predecir qué valor elegir.",
+                "DETAILS": "Esta es una plantilla vacía para ayudarlo a recopilar sus propios datos de entrenamiento. Para obtener instrucciones sobre cómo usarlo, descargue 'Top Trumps' de Worksheets."
             },
             "SONGLYRICS": {
-                "TITLE": "Song lyrics",
-                "SUMMARY": "Recognize types of songs",
-                "DESCRIPTION": "Train a machine learning model to recognize the type of song based on it's lyrics",
-                "DETAILS": "This training dataset includes 140 lines from song lyrics - half from children's songs and half from Top 40 songs. It is a good starting set for training a machine learning model to recognize different uses of language."
+                "TITLE": "Letras de canciones",
+                "SUMMARY": "Reconocer tipos de canciones.",
+                "DESCRIPTION": "Entrenar a un modelo de aprendizaje automático para reconocer el tipo de canción según sus letras",
+                "DETAILS": "Este conjunto de datos de capacitación incluye 140 líneas de letras de canciones: la mitad de canciones infantiles y la otra mitad de canciones Top 40. Es un buen comienzo para entrenar un modelo de aprendizaje automático para reconocer diferentes usos del lenguaje."
             }
         }
     },
@@ -382,13 +388,13 @@
                     "TEXT": "La clase está entrenando un modelo de aprendizaje automático usando los ejemplos de texto agregados.",
                     "IMAGES": "La clase está entrenando un modelo de aprendizaje automático usando los ejemplos de imágenes agregados.",
                     "NUMBERS": "La clase está entrenando un modelo de aprendizaje automático usando los ejemplos de números agregados.",
-                    "SOUNDS": "Your class is training a machine learning model using the examples of sounds that you all collected."
+                    "SOUNDS": "La clase está entrenando un modelo de aprendizaje automático utilizando los ejemplos de sonidos que todos recopilaron."
                 },
                 "INDIVIDUAL": {
                     "TEXT": "Estás entrenando un modelo de aprendizaje automático usando los ejemplos de texto agregados .",
                     "IMAGES": "Estás entrenando un modelo de aprendizaje automático usando los ejemplos de imágenes agregados.",
                     "NUMBERS": "Estás entrenando un modelo de aprendizaje automático usando los ejemplos de números agregados .",
-                    "SOUNDS": "You've started training a machine learning model using the examples of sounds that you collected."
+                    "SOUNDS": "Has comenzado a entrenar un modelo de aprendizaje automático utilizando los ejemplos de sonidos que has recopilado."
                 },
                 "SINCE": "Entrenando desde"
             },
@@ -397,13 +403,13 @@
                     "TEXT": "La clase ha entrenado un modelo de aprendizaje automático para reconocer cuando un texto es ",
                     "IMAGES": "La clase ha entrenado un modelo de aprendizaje automático para reconocer cuando una imagen es ",
                     "NUMBERS": "La clase ha entrenado un modelo de aprendizaje automático para reconocer cuando un número es ",
-                    "SOUNDS": "Your class has trained a machine learning model to recognise when sounds are "
+                    "SOUNDS": "La clase ha entrenado un modelo de aprendizaje automático para reconocer cuándo son los sonidos "
                 },
                 "INDIVIDUAL": {
                     "TEXT": "Has entrenado un modelo de aprendizaje automático para reconocer cuando un texto es ",
                     "IMAGES": "Has entrenado un modelo de aprendizaje automático para reconocer cuando una imagen es ",
                     "NUMBERS": "Has entrenado un modelo de aprendizaje automático para reconocer cuando un número es ",
-                    "SOUNDS": "You have trained a machine learning model to recognise when sounds are "
+                    "SOUNDS": "Has entrenado un modelo de aprendizaje automático para reconocer cuándo son los sonidos "
                 },
                 "CREATED": {
                     "TEACHER": "Tu profesor ha creado el modelo el  ",
@@ -420,20 +426,20 @@
                         "TEXT": "El profesor intentó entrenar un modelo de aprendizaje automático usando los ejemplos de texto añadidos por la clase.",
                         "IMAGES": "El profesor intentó entrenar un modelo de aprendizaje automático usando los ejemplos de imágenes añadidos por la clase.",
                         "NUMBERS": "El profesor intentó entrenar un modelo de aprendizaje automático usando los ejemplos de números añadidos por la clase.",
-                        "SOUNDS": "Your teacher tried training a machine learning model using the examples of sounds that your class collected."
+                        "SOUNDS": "El profesor intentó entrenar un modelo de aprendizaje automático utilizando los ejemplos de sonidos que recopiló su clase."
                     },
                     "YOU": {
                         "TEXT": "Has intentado entrenar un modelo de aprendizaje automático usando los ejemplos de texto añadidos por la clase.",
                         "IMAGES": "Has intentado entrenar un modelo de aprendizaje automático usando los ejemplos de imágenes añadidos por la clase.",
                         "NUMBERS": "Has intentado entrenar un modelo de aprendizaje automático usando los ejemplos de números añadidos por la clase.",
-                        "SOUNDS": "You tried training a machine learning model using the examples of sounds that your class collected."
+                        "SOUNDS": "Has intentado entrenar un modelo de aprendizaje automático utilizando los ejemplos de sonidos que su clase recopiló."
                     }
                 },
                 "INDIVIDUAL": {
                     "TEXT": "Has intentado entrenar un modelo de aprendizaje automático usando los ejemplos de imágenes que has añadido.",
                     "IMAGES": "Has intentado entrenar un modelo de aprendizaje automático usando los ejemplos de imágenes que has añadido.",
                     "NUMBERS": "Has intentado entrenar un modelo de aprendizaje automático usando los ejemplos de números que has añadido.",
-                    "SOUNDS": "You tried training a machine learning model using the examples of sounds that you collected."
+                    "SOUNDS": "Has intentado entrenar un modelo de aprendizaje automático utilizando los ejemplos de sonidos que recopiló."
                 }
             },
             "IDLE": {
@@ -442,13 +448,13 @@
                         "TEXT": "La clase ha elegido añadir ejemplos de texto.",
                         "IMAGES": "La clase ha elegido añadir ejemplos de imágenes.",
                         "NUMBERS": "La clase ha elegido añadir ejemplos de números.",
-                        "SOUNDS": "Your class said you want to collect examples of sounds."
+                        "SOUNDS": "La clase dice que quieres recolectar ejemplos de sonidos."
                     },
                     "INDIVIDUAL": {
                         "TEXT": "Has elegido añadir ejemplos de texto.",
                         "IMAGES": "Has elegido añadir ejemplos de imágenes.",
                         "NUMBERS": "Has elegido añadir ejemplos de números.",
-                        "SOUNDS": "You've said you want to collect examples of sounds."
+                        "SOUNDS": "Has dicho que quieres recopilar ejemplos de sonidos."
                     }
                 },
                 "NODATA": {
@@ -456,13 +462,13 @@
                         "TEXT": "La clase ha elegido añadir ejemplos de texto para que la computadora reconozca cuando un texto es ",
                         "IMAGES": "La clase ha elegido añadir ejemplos de texto para que la computadora reconozca cuando una imagen es ",
                         "NUMBERS": "La clase ha elegido añadir ejemplos de texto para que la computadora reconozca cuando un número  es ",
-                        "SOUNDS": "Your class said that you want to collect examples of sounds for a computer to recognise when sounds are "
+                        "SOUNDS": "La clase dice que desea recopilar ejemplos de sonidos para que una computadora reconozca cuándo son los sonidos"
                     },
                     "INDIVIDUAL": {
                         "TEXT": "Has elegido añadir ejemplos de texto para que la computadora reconozca cuando un texto es ",
                         "IMAGES": "Has elegido añadir ejemplos de imágenes para que la computadora reconozca cuando un texto es ",
                         "NUMBERS": "Has elegido añadir ejemplos de números para que la computadora reconozca cuando un texto es ",
-                        "SOUNDS": "You said that you want to collect examples of sounds for a computer to recognise when sounds are "
+                        "SOUNDS": "Has dicho que quieres recopilar ejemplos de sonidos para que una computadora reconozca cuándo son los sonidos "
                     }
                 },
                 "NOEXAMPLES": {
@@ -474,13 +480,13 @@
                         "TEXT": "La clase ha añadido ejemplos de texto para que la computadora aprenda a reconocer cuando un texto es ",
                         "IMAGES": "La clase ha añadido ejemplos de imágenes para que la computadora aprenda a reconocer cuando una imagen es ",
                         "NUMBERS": "La clase ha añadido ejemplos de números para que la computadora aprenda a reconocer cuando un número es ",
-                        "SOUNDS": "Your class has collected examples of sounds for a computer to use to recognise when sounds are "
+                        "SOUNDS": "La clase ha recopilado ejemplos de sonidos para que una computadora los use para reconocer cuándo son los sonidos "
                     },
                     "INDIVIDUAL": {
                         "TEXT": "Has añadido ejemplos de texto para que la computadora aprenda a reconocer cuando un texto es ",
                         "IMAGES": "Has añadido ejemplos de imágenes para que la computadora aprenda a reconocer cuando una imagen es ",
                         "NUMBERS": "Has añadido ejemplos de números para que la computadora aprenda a reconocer cuando un número es ",
-                        "SOUNDS": "You have collected examples of sounds for a computer to use to recognise when sounds are "
+                        "SOUNDS": "Has recopilado ejemplos de sonidos para que una computadora los use para reconocer cuándo son sonidos "
                     },
                     "COLLECTED": {
                         "CLASS": "Han agregado: ",
@@ -492,7 +498,7 @@
         "WHATSNEXT": {
             "TITLE": "¿Y ahora qué hay que hacer?",
             "PLEASEWAIT": "Espera unos minutos mientras se entrena el modelo..",
-            "OFFERQUIZ": "Or, you could try the machine learning quiz below, to check what you've learned.",
+            "OFFERQUIZ": "O bien, puedes probar el cuestionario de aprendizaje automático a continuación para verificar lo que ha aprendido.",
             "FAIL": "Mensaje de error. Si tiene sentido para tí, intenta arreglarlo. Si no, puede tratarse de un error aleatorio y lo mejor es empezar de nuevo.",
 
             "IDLE": {
@@ -548,13 +554,13 @@
             }
         },
         "TRAINING": {
-            "TITLE": "Infrmación del entrenamiento:",
-            "STARTED": "Modelo se inició started training at:",
+            "TITLE": "Información del entrenamiento:",
+            "STARTED": "Modelo se inició en:",
             "STATUS": "Estatus actual:",
             "DETAIL": "Detalle:",
             "DELETION": "El modelo se borrará automáticamente cuando pasen: :",
             "LASTCHECK": "Último chequeo del modelo:",
-            "PROMPTREFRESH": "Si tarde más de un minute, hay que refrescar la pantalla para obtener información de estatus actualizada. "
+            "PROMPTREFRESH": "Si tarda más de un minuto, hay que refrescar la pantalla para obtener información de estatus actualizada. "
         },
         "TESTING": {
             "INTRO": {
@@ -732,7 +738,7 @@
         "TITLE": "Usando aprendizaje automático en Scratch",
 
         "NOTREADY": "Tu Proyecto no está listo para usarse en Scratch .",
-        "NOMODEL": "Todavia no has entrenado un modelo.",
+        "NOMODEL": "Todavía no has entrenado un modelo.",
 
         "LAUNCH": "Abrir en Scratch",
 
@@ -834,15 +840,15 @@
             "SUMMARY": "Enseña a una computadora a reconocer el significado de tus commandos ",
             "DESCRIPTION": "Crea un asistente inteligente en Scratch que te permita controlar dispositivos virtuales.",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the project, where the students make a non-machine learning version first",
+                "DESCRIPTION": "Versión completa del proyecto, donde los estudiantes hacen una primera versión sin aprendizaje automático",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-es.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Shorter version of the project, where the students only make a machine learning version of the assistant",
+                "DESCRIPTION": "Versión corta del proyecto, donde los estudiantes sólo hacen la versión de aprendizaje automático del asistente",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-easy-es.pdf"
             },
             "WORKSHEET_3": {
-                "DESCRIPTION": "Quick simplified version of the project, ideal for use as a first introduction to the tool",
+                "DESCRIPTION": "Versión simplificada del proyecto, ideal para usar como primera introducción a la herramienta",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-tryitnow-es.pdf"
             }
         },
@@ -851,15 +857,15 @@
             "SUMMARY": "Enseña a una computadora a distinguir entre insultos y halagos. ",
             "DESCRIPTION": "Crea un asistente inteligente en Scratch que sonría si le dices algo bonito y llore si le insultas .",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the project, where the students make a non-machine learning version first",
+                "DESCRIPTION": "Versión completa del proyecto, donde los estudiantes hacen una primera versión sin aprendizaje automático",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Shorter version of the project, where the students only make a machine learning version",
+                "DESCRIPTION": "Versión corta del proyecto, donde los estudiantes sólo hacen la versión de aprendizaje automático",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-easy.pdf"
             },
             "WORKSHEET_3": {
-                "DESCRIPTION": "Python project - for making the project using Python",
+                "DESCRIPTION": "Proyecto project - para hacerlo usando lenguaje Python",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-python.pdf"
             }
         },
@@ -868,18 +874,18 @@
             "SUMMARY": "Enseña a una computadora a  identificar iconos",
             "DESCRIPTION": "Crea un juego de cartas en  Scratch que aprenda a identificar las figuras en las cartas.",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the project, where the students make their own cards that they will train the computer to recognise",
+                "DESCRIPTION": "Versión completa del proyecto, donde los estudiantes hacen sus propias tarjetas con las que entrenaran a la computadora",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-snap-es.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Shorter version of the project, providing children with pre-made cards that you will need to print out, to save the students time having to make them",
+                "DESCRIPTION": "Versón más corta del proyecto, que proporciona las tarjetas ya preparadas para imprimir, ahorrando el tiempo de hacerlas",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-snap-easy.pdf",
                 "RESOURCES": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/resources-snap-easy.pdf"
             }
         },
         "CHAMELEON": {
             "TITLE": "Camaleón",
-            "SUMMARY": "Enseña a una computadora a  identificar colores",
+            "SUMMARY": "Enseña a una computadora a identificar colores",
             "DESCRIPTION": "Crea un camaleón en Scratch que cambie de colón para mimetizarse con el fondo. ",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chameleon-es.pdf"
@@ -951,11 +957,11 @@
             "SUMMARY": "Enseña a una computadora a identificar preguntas",
             "DESCRIPTION": "Crea un  chatbot que responda preguntas sobre el tema que elijas.",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Scratch project - for making a chat bot in Scratch",
+                "DESCRIPTION": "Proyecto Scratch - para hacer un chat bot con Scratch",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chatbots-es.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Python project - for making a chat bot using Python",
+                "DESCRIPTION": "Proyecto Python - para hacer un chat bot usando Python",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chatbots-python.pdf"
             }
         },
@@ -976,7 +982,7 @@
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-sortinghat.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Group version of the project, where students in the class work together to train a shared machine learning model",
+                "DESCRIPTION": "Versión de Grupo, donde los estudiantes trabajan juntos en clase para entrenar un modelo de aprendizaje automático compartido",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-sortinghat-crowd.pdf"
             }
         },
@@ -993,11 +999,11 @@
             "SUMMARY": "Enseña a una computadora a reconocer estilos visuales",
             "DESCRIPTION": "Crea un juego en  Scratch para probar si se puede valorar un libro por su portada.",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the project, where children make a game to compete against the computer to recognise books",
+                "DESCRIPTION": "Versión completa del proyecto, donde los estudiantes hacen un juego para competir contra la computadora para reconocer libros",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-judgeabook.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Simplified version of the project, where children get the computer to recognise books",
+                "DESCRIPTION": "Versión simplificada del proyecto, donde los estudiantes hacen que la computadora reconozca libros",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-judgeabook-easy.pdf"
             }
         },
@@ -1046,15 +1052,15 @@
             "SUMMARY": "Enseña a una computadora a jugar a un juego ",
             "DESCRIPTION": "Crea un juego cara o cruz en  Scratch que aprenda cómo ganarte.",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Classroom version, where each student makes the game themselves in Scratch",
+                "DESCRIPTION": "Versión de clase, donde cada estudiante hace por si mismo el juego en Scratch",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-noughtsandcrosses.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Classroom version, where each student makes the game themselves in Python",
+                "DESCRIPTION": "Versión de clase, donde cada estudiante hace por si mismo el juego en Python",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-noughtsandcrosses-python.pdf"
             },
             "WORKSHEET_3": {
-                "DESCRIPTION": "Demo version, for events like Science Fairs where each child has a minute or two to try something",
+                "DESCRIPTION": "Versión Demostración, para eventos como ferias de ciencia donde cada estudiante tiene 1 minuto o 2 para probar",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-noughtsandcrosses-event.pdf"
             }
         },
@@ -1075,17 +1081,17 @@
             }
         },
         "NEWSPAPERSHELVES": {
-            "TITLE": "Newspaper shelves",
-            "SUMMARY": "Test the computer's ability to recognise use of language",
-            "DESCRIPTION": "Train a computer to recognise headlines from national newspapers.",
+            "TITLE": "Estantes de periodicos",
+            "SUMMARY": "Probar la capacidad de la computadora para reconocer el uso del lenguaje",
+            "DESCRIPTION": "Entrenar a una computadora para reconocer los titulares de periodicos nacionales.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-headlines-easy.pdf"
             }
         },
         "HEADLINETESTING": {
-            "TITLE": "Headline testing",
-            "SUMMARY": "Test the computer's ability to recognise use of language",
-            "DESCRIPTION": "Create a testing tool in Scratch to measure how good a machine learning model is",
+            "TITLE": "Prueba de Titulares",
+            "SUMMARY": "Probar la capacidad de la computadora para reconocer el uso del lenguaje",
+            "DESCRIPTION": "Crear una herramienta de prueba que mida la calidad de un modelo de aprendizaje automático",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-headlines.pdf"
             }
@@ -1099,81 +1105,81 @@
             }
         },
         "ALIENLANGUAGE": {
-            "TITLE": "Alien Language",
-            "SUMMARY": "Teach a computer to recognize sounds",
-            "DESCRIPTION": "Make an alien in Scratch that learns to recognize an alien language",
+            "TITLE": "Lengua Alienigena",
+            "SUMMARY": "Enseña a una computadora a reconocer sonidos",
+            "DESCRIPTION": "Diseña um alienigena en Scratch que aprenda a reconocer el lenguaje alienigena",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-alienlanguage-es.pdf"
             }
         },
         "SECRETCODE": {
-            "TITLE": "Secret Code",
-            "SUMMARY": "Teach a computer to recognize speech",
-            "DESCRIPTION": "Train a computer to understand secret code words to guide a spy.",
+            "TITLE": "Código Secreto",
+            "SUMMARY": "Enseña a una computadora a reconocer el habla",
+            "DESCRIPTION": "Entrena a una computadora a entender las palabras de un código secreto espía.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-secretcode-es.pdf"
             }
         },
         "JARGONBUSTER": {
             "TITLE": "Jargon Buster",
-            "SUMMARY": "Teach a computer to listen for words",
-            "DESCRIPTION": "Make a project in Scratch that displays the meaning of words you say.",
+            "SUMMARY": "Enseña a la computadora a escuchar palabras",
+            "DESCRIPTION": "Diseña un proyecto en Scratch que muestre el significado de las palabras que dices.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-jargonbuster.pdf"
             }
         },
         "TITANIC": {
             "TITLE": "Titanic",
-            "SUMMARY": "Teach a computer to predict outcomes",
-            "DESCRIPTION": "Create a Python program that can predict who survived the sinking of the Titanic.",
+            "SUMMARY": "Enseña a una computadora a predecir resultados",
+            "DESCRIPTION": "Crea un programa de Python que pueda predecir quien sobrevivió al hundimiento del Titanic.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-titanic-python-es.pdf"
             }
         },
         "ZOMBIEESCAPE": {
             "TITLE": "Zombie Escape!",
-            "SUMMARY": "Teach a computer to make predictions",
-            "DESCRIPTION": "Train a computer to help you escape from the zombies",
+            "SUMMARY": "Enseña a una computadora a hacer predicciones",
+            "DESCRIPTION": "Entrena a una computadora para ayudarte a escapar de los zombies",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-zombieescape-es.pdf"
             }
         },
         "PHISHING": {
-            "TITLE": "Phishing",
-            "SUMMARY": "Teach a computer to recognize phishing web links",
-            "DESCRIPTION": "Create a Python program that can predict if a URL is legitimate",
+            "TITLE": "Phishing ó Suplantación de identidad",
+            "SUMMARY": "Enseña a una computadora a reconocer links de páginas de phishing",
+            "DESCRIPTION": "Crea un programa de Python que pueda predecir si una URL es legítima",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-phishing.pdf"
             }
         },
         "KIWIORSTOAT": {
-            "TITLE": "Kiwi or Stoat",
-            "SUMMARY": "Teach a computer to recognize photos of animals",
-            "DESCRIPTION": "Make a project in Scratch that can recognize the animals in photos from conservation sites",
+            "TITLE": "Kiwi o Armiño",
+            "SUMMARY": "Enseña a una computadora a reconocer fotos de animales",
+            "DESCRIPTION": "Diseña un proyecto en Scratch que pùeda reconocer animales en páginas de conervación",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-kiwiorstoat.pdf"
             }
         },
         "INKBLOTS": {
-            "TITLE": "Ink blots",
-            "SUMMARY": "Teach a computer to recognize photos of objects",
-            "DESCRIPTION": "Recreate an MIT research project and learn about how AI systems are described in the news.",
+            "TITLE": "Manchas de tinta",
+            "SUMMARY": "Enseña a una computadora a reconocer fotos de objetos",
+            "DESCRIPTION": "Recrea un proyecto de investigación del MIT y aprende cómo se describen los sistemas de IA en las noticias.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-inkblots.pdf"
             }
         },
         "FACEFINDER": {
-            "TITLE": "Face Finder",
-            "SUMMARY": "Use a computer that has been trained to recognize faces",
-            "DESCRIPTION": "Make a video filter in Scratch to turn your face into a cartoon.",
+            "TITLE": "Buscador de caras",
+            "SUMMARY": "Usa una computadora que ha sido entrenada para reconocer rostros",
+            "DESCRIPTION": "Haz un filtro de vídeo en Scratch para convertir tu rostro en una caricatura.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-facefinder.pdf"
             }
         },
         "EMOJIMASK": {
-            "TITLE": "Emoji Mask",
-            "SUMMARY": "Use a computer that has been trained to recognize faces",
-            "DESCRIPTION": "Make a video filter in Scratch to add an emoji mask to your face.",
+            "TITLE": "Máscara Emoji",
+            "SUMMARY": "Usa una computadora que ha sido entrenada para reconocer rostros",
+            "DESCRIPTION": "Haz un filtro de vídeo en Scratch para poner una máscara de emoji a tu rostro.",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-emojimask.pdf"
             }
@@ -1224,22 +1230,22 @@
             "REMOVE": "Eliminar",
             "VERIFY": "Verify",
 
-            "LITE_30_DAYS_EXPIRE": "IBM Cloud may deactivate 'Lite' plan Watson API keys if they're not used for 30 days",
+            "LITE_30_DAYS_EXPIRE": "IBM Cloud podría desactivar las cuentas del plan 'Lite' de APIs de Watson API si no son usadas en 30 días",
 
             "NO_TEXT_CREDENTIALS": "No tienes credenciales de Watson Assistant. Por ello, no puedes entrenar modelos para proyectos de reconocimiento de <strong>texto</strong> s.",
             "NO_IMAGE_CREDENTIALS": "No tienes API keys para reconocimiento visual. Por ello, no puedes entrenar modelos para proyectos de reconocimiento de <strong>imágenes</strong>.",
 
-            "LINK_TO_APIKEYS_GUIDE": "If you're not sure where to get them, download the <a href='/apikeys-guide'>step-by-step guide</a>",
+            "LINK_TO_APIKEYS_GUIDE": "Si no está seguro de dónde conseguirlos, descargue la <a href='/apikeys-guide'>guía paso-a-paso</a>",
 
             "NOTAUTHORISED": "No estás autorizado para accede a las Watson API keys classed tu clase.",
             "MANAGEDCLASS": "Las API Keys de tu clase están son administradas para tí.",
 
-            "HELP_STEPBYSTEP_GUIDE": "Si no estás seguro de qué hacer aquí, <a href='/apikeys-guide'> sigue la guía paso a a paso en </a>.  Si necesitas ayuda, por favor, <strong><a style='cursor: pointer;' href='/help'>contacta con nosotros</a></strong>.",
+            "HELP_STEPBYSTEP_GUIDE": "Si no estás seguro de qué hacer aquí, <a href='/apikeys-guide'> sigue la guía paso-a-paso en </a>.  Si necesitas ayuda, por favor, <strong><a style='cursor: pointer;' href='/help'>contacta con nosotros</a></strong>.",
 
             "INTRO_WATSONASSISTANT": "El entrenamiento de modelos de aprendizaje automático para proyectos de <span class='mlprojecttype'>texot</span> usa <a class='mlprojecttype' href='https://www.ibm.com/cloud/watson-assistant/'>Watson Assistant</a>",
             "INTRO_VISUALRECOGNITION": "El entrenamiento de modelos de aprendizaje automático para proyectos de <span class='mlprojecttype'>imagen</span> usa <a class='mlprojecttype' href='https://www.ibm.com/watson/services/visual-recognition/'>Watson Visual Recognition</a>",
-            "INTRO_NUMBERS": "Training machine learning models for <span class='mlprojecttype'>numbers</span> projects does <strong>not</strong> require any API keys",
-            "INTRO_SOUNDS": "Training machine learning models for <span class='mlprojecttype'>sound</span> projects does <strong>not</strong> require any API keys",
+            "INTRO_NUMBERS": "Formación de modelos de aprendizaje automático para <span class='mlprojecttype'>numbers</span> proyectos que <strong>no</strong> requiren ninguna API",
+            "INTRO_SOUNDS": "Formación de modelos de aprendizaje automático para <span class='mlprojecttype'>sound</span> proyectos que <strong>no</strong> requiren ninguna API",
 
             "ERROR_FETCHING_WATSONASSISTANT": "Error al obtener tus claves de Watson Assistant ",
             "ERROR_FETCHING_VISUALRECOG": "Error al obtener tus claves de Visual Recognition API ",
@@ -1332,19 +1338,19 @@
             "NOT_AUTHORIZED": "No tiene permisos para acceder a la lista de proyectos de los alumnos de la clase.",
 
             "ADD_MULTIPLE": {
-                "BUTTON": "Multiple students",
+                "BUTTON": "Estudiantes Multiples",
 
-                "TITLE": "Add new students",
-                "INTRO": "You can use this to create more than one student account at the same time.",
-                "USERNAME": "What do you want each username to start with?",
-                "USERNAME_REQUIRED": "Please choose the prefix for the usernames",
-                "USERNAME_TOOLONG": "That is too long",
-                "USERNAME_INVALID": "Invalid characters",
-                "NUMBER": "How many student accounts do you want?",
-                "NUMBER_REQUIRED": "Please enter the number of students to create",
-                "NUMBER_TOOMANY": "Your class has a limit of {{userslimit}} students.",
-                "PASSWORD": "The password to give them:",
-                "PASSWORD_TOOSHORT": "Too short"
+                "TITLE": "Añade un nuevo estudiante",
+                "INTRO": "Para crear más de una cuenta de estudiante al mismo tiempo.",
+                "USERNAME": "¿Con qué quieres que comience cada nombre de usuario?",
+                "USERNAME_REQUIRED": "Por favor, elija el prefijo para los nombres de usuario",
+                "USERNAME_TOOLONG": "Eso es demasiado largo",
+                "USERNAME_INVALID": "Caracteres inválidos",
+                "NUMBER": "¿Cuántas cuentas de estudiantes quieres?",
+                "NUMBER_REQUIRED": "Por favor indica el número de estudiantes a crear",
+                "NUMBER_TOOMANY": "Tu clase tiene un límite de {{userslimit}} estudiantes.",
+                "PASSWORD": "La contraseña para darles:",
+                "PASSWORD_TOOSHORT": "Demasiado corto"
             }
         }
     },
@@ -1379,7 +1385,7 @@
         }
     },
     "HELP": {
-        "CONTACT": "If you have any problems or questions, please ask in <a href='https://groups.google.com/d/forum/mlforkids'>the ML for Kids Google Group</a>",
+        "CONTACT": "Si tienes algunas preguntas o problemas, por favor, pregunta a <a href='https://groups.google.com/d/forum/mlforkids'> el Grupo de ML for Kids</a>",
         "GETTINGSTARTED": {
             "TITLE": "¿Primera vez?",
             "INTRO": "Descarga un PDF con una breve guía de inicio. :",
@@ -1541,56 +1547,56 @@
             "Q4-A-5": "Recomiendo  <a href='https://github.com/IBM/taxinomitis-docs/raw/master/docs/pdf/machinelearningforkids-schools.pdf'>que los alumnos tengan nombres genéricos</a> (por ejempo, alumno1) , para que no se les pueda identificar fuera de la escuela o del club de programación.",
             "Q4-A-6": "Información general sobre todas las cuentas. ",
             "Q4-A-7": "La gestión de usuarios de  Machine Learning for Kids se lleva a cabo mediante un Servicio de terceros, <a href='https://auth0.com/'>Auth0</a>. Almacenan la dirección IP del ultimo inicio de session y el tipo de navegador usado. Nunca he encontrado una razón para usarlo, pero se guarda por si resulta necesario..",
-            "Q4-A-8": "Los errors del navegador se recogen mediante un servicio de tercerosa <a href='https://sentry.io/'>Sentry</a>. Si algo falla, recogerá la información del error, incluyendo nombre de usurio, dirección IP, tipo de navegador y una descripción técnica de lo que ha fallado.",
+            "Q4-A-8": "Los errores del navegador se recogen mediante un servicio de tercerosa <a href='https://sentry.io/'>Sentry</a>. Si algo falla, recogerá la información del error, incluyendo nombre de usurio, dirección IP, tipo de navegador y una descripción técnica de lo que ha fallado.",
             "Q4-A-9": "Uso <a href='https://www.google.com/analytics/'>Google Analytics</a> para saber cuántos usuarios visitan visit Machine Learning for Kids cada día. Aunque también recoge información geográfica o tipo de navegador, esto solo puedo verlo de forma agregada y anonimizada.",
 
-            "Q5": "What happens to training data created by students?",
-            "Q5-A-1": "A step in all machine learning projects that students make using this site is to create or collect training examples. For text projects, this can mean typing in short text passages. For image projects, this can means drawing pictures onto an on-screen canvas or taking photos using the webcam. For numbers projects, this means typing in sets of numbers",
-            "Q5-A-2": "All of these training examples are stored in a <a href='https://www.ibm.com/cloud/compose/mysql'>MySQL database hosted on IBM Cloud</a>, in Dallas in the United States. As the database administrator, I have access to all of these training examples for all student projects, however I do not use it for any other purposes other than enabling students to access and work on their own projects. I do not publish the training data (either publicly or to individuals or third parties) or otherwise share it, with the two exceptions of submitting it to IBM Watson APIs described below.",
-            "Q5-A-3": "Machine learning models for text projects are created using the <a href='https://www.ibm.com/cloud/watson-assistant/'>IBM Watson Assistant</a> cloud service, which means when students train a model, a copy of the training examples that they have entered will be <a href='https://cloud.ibm.com/apidocs/assistant#create-workspace'>submitted to IBM Watson</a>. (The location of this cloud service is something that teachers choose when <a href='https://machinelearningforkids.co.uk/apikeys-guide'>creating API keys</a>.) IBM Watson does not use these training examples for any other purposes. This is because Machine Learning for Kids <a href='https://cloud.ibm.com/apidocs/assistant#data-collection'>requests an opt-out</a> for student training examples being used by IBM to improve the service, as <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>described in the Watson documentation</a>.",
-            "Q5-A-4": "Machine learning models for images projects are created using the <a href='https://www.ibm.com/watson/services/visual-recognition/'>IBM Visual Recognition</a> cloud service, which means when students train a model, a copy of their training images will be <a href='https://cloud.ibm.com/apidocs/visual-recognition#create-a-classifier'>uploaded to IBM Watson</a>. (The location of this cloud service is something that teachers choose when <a href='https://machinelearningforkids.co.uk/apikeys-guide'>creating API keys</a>.) IBM Watson does not use these training examples for any other purposes. This is because Machine Learning for Kids <a href='https://cloud.ibm.com/apidocs/visual-recognition#data-collection'>requests an opt-out</a> for student training examples being used by IBM to improve the service, as <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>described in the Watson documentation</a>.",
-            "Q5-A-5": "IBM Watson provides some <a href='https://cloud.ibm.com/docs/services/assistant?topic=assistant-information-security#information-security-gdpr-wa'>general guidance for sharing training data with their services</a>, which also apply to training data created and collected in Machine Learning for Kids. Specifically, students should be advised not to include personally identifiable information in the examples that they collect."
+            "Q5": "Qué sucede con los datos de entrenamiento creado por los alumnos?",
+            "Q5-A-1": "Un paso en todos los proyectos de aprendizaje automático que los estudiantes realizan al usar este sitio es crear o recopilar ejemplos de capacitación. Para proyectos de texto, esto puede significar escribir pasajes de texto cortos. Para proyectos de imágenes, esto puede significar dibujar imágenes en un lienzo en pantalla o tomar fotos usando la cámara web. Para proyectos de números, esto significa escribir conjuntos de números",
+            "Q5-A-2": "Todos estos ejemplos de entrenamiento se almacenan en un <a href='https://www.ibm.com/cloud/compose/mysql'>MySQL database almacenado en IBM Cloud</a>, in Dallas en los United States. Como administrador de la base de datos, tengo acceso a todos estos ejemplos de capacitación para todos los proyectos de los estudiantes, sin embargo, no lo uso para ningún otro propósito que no sea permitir a los estudiantes acceder y trabajar en sus propios proyectos. No publico los datos de capacitación (ya sea públicamente o a individuos o terceros) ni los comparto, con las dos excepciones de enviarlos a las API de IBM Watson que se describen a continuación.",
+            "Q5-A-3": "Los modelos de aprendizaje automático para proyectos de texto se crean utilizando el <a href='https://www.ibm.com/cloud/watson-assistant/'>servicio en la nube IBM Watson Assistant</a>, lo que significa que cuando los estudiantes entrenan un modelo, una copia de los ejemplos de entrenamiento que han ingresado será<a href='https://cloud.ibm.com/apidocs/assistant#create-workspace'> enviado a IBM Watson</a>. (La ubicación de este servicio en la nube es algo que los maestros eligen cuando <a href='https://machinelearningforkids.co.uk/apikeys-guide'>crean las API keys</a>.) BM Watson no utiliza estos ejemplos de capacitación para ningún otro propósito. Esto se debe a que Machine Learning para niños <a href='https://cloud.ibm.com/apidocs/assistant#data-collection'>solicita una exclusión</a> para ejemplos de capacitación de estudiantes utilizados por IBM para mejorar el servicio, como <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>descrito en la documentación de Watson</a>.",
+            "Q5-A-4": "Los modelos de aprendizaje automático para proyectos de imágenes se crean utilizando el <a href='https://www.ibm.com/watson/services/visual-recognition/'>servicio en la nube IBM Visual Recognition</a> servicio de cloud, o que significa que cuando los estudiantes entrenan a un modelo, una copia de sus imágenes de entrenamiento será <a href='https://cloud.ibm.com/apidocs/visual-recognition#create-a-classifier'>subido a IBM Watson</a>. (La ubicación de este servicio en la nube es algo que los maestros eligen cuando <a href='https://machinelearningforkids.co.uk/apikeys-guide'>crean las API keys</a>.) BM Watson no utiliza estos ejemplos de capacitación para ningún otro propósito. Esto se debe a que Machine Learning para niños <a href='https://cloud.ibm.com/apidocs/visual-recognition#data-collection'>solicita una exclusión</a> para ejemplos de capacitación de estudiantes utilizados por IBM para mejorar el servicio, como <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>descrito en la documentación de Watson</a>.",
+            "Q5-A-5": "IBM Watson provee algunos <a href='https://cloud.ibm.com/docs/services/assistant?topic=assistant-information-security#information-security-gdpr-wa'>guía general para compartir datos de capacitación con sus servicios</a>, que también se aplican a los datos de capacitación creados y recopilados en Machine Learning for Kids. Específicamente, se debe recomendar a los estudiantes que no incluyan información de identificación personal en los ejemplos que recopilan."
         }
     },
     "APIKEYSGUIDE": {
-        "TITLE": "Guide to IBM Cloud",
+        "TITLE": "Guía para IBM Cloud",
         "INTRO": {
-            "INTRO_1": "Teachers / parents / code club-leaders with unmanaged class accounts need to provide '<strong>API Keys</strong>' from IBM Cloud. These are secret codes that provide access to the artificial intelligence technology that will power student projects.",
-            "INTRO_2": "Text projects need a 'Watson Assistant' API Key. Image projects need a 'Visual Recognition' API Key. (Numbers and Sound projects don't require API Keys).",
-            "INTRO_3": "You will need to create an account on IBM Cloud to be able to create these codes. It is free to create an account, and there are no charges for 'Lite' API Keys. "
+            "INTRO_1": "Los profesores / padres / líderes de club de código con cuentas de clase no administradas deben proporcionar '<strong>API Keys</strong>' desde la IBM Cloud. Estos son códigos secretos que proporcionan acceso a la tecnología de inteligencia artificial que impulsará los proyectos de los estudiantes.",
+            "INTRO_2": "Los proyecto de Texto necesitan una API Key de'Watson Assistant' API Key. Los proyectos de Imágenes necesitan una API Key de 'Visual Recognition'. (Los de Números y Sonidos no necesitan API Keys).",
+            "INTRO_3": "Deberá crear una cuenta en IBM Cloud para poder crear estos códigos. Crear una cuenta es gratis, y no hay cargos por las claves API en el plan 'Lite'. "
         },
-        "LINK": "How to create API Keys",
-        "EXPLANATION": "Download a step-by-step guide for how to create API Keys on IBM Cloud"
+        "LINK": "Cómo crear claves de API",
+        "EXPLANATION": "Descarga la guía paso-a-paso para crear API Keys en la IBM Cloud"
     },
     "PRETRAINED": {
         "TITLE": "Pre-trained models",
         "INTRO": {
-            "INTRO_1": "<strong>Machine Learning for Kids</strong> provides pre-trained models you can use in your projects. Real-world machine learning projects often use models already trained by other people. There are lots of well-trained models that are freely available, and these are useful when you don't have time to collect the amount of training data needed to train your own."
+            "INTRO_1": "<strong>Machine Learning for Kids</strong> proporciona modelos pre-entrenados que puede usar en sus proyectos. Los proyectos de aprendizaje automático del mundo real a menudo usan modelos ya entrenados por otras personas. Hay muchos modelos bien entrenados que están disponibles gratuitamente, y estos son útiles cuando no tienes tiempo para recopilar la cantidad de datos de entrenamiento necesarios para entrenar tu propio."
         },
         "HOWTO": {
-            "TITLE": "How to use",
-            "INTRO": "Click on the button to go to Scratch.",
-            "HOW_1": "Go to the version of <a href='https://machinelearningforkids.co.uk/scratch3'>Scratch 3</a> available from Machine Learning for Kids.",
-            "HOW_2": "Pre-trained models are available from the Extensions panel. Click on the blue extensions button in the bottom-left of the Scratch window to find them, then click on the one you want to add to your project.",
-            "HOW_3": "The blocks for the pre-trained model will be added to the Scratch toolbox."
+            "TITLE": "Cómo usar",
+            "INTRO": "Pulsa el botón para ir a Scratch.",
+            "HOW_1": "Ir a la versión de <a href='https://machinelearningforkids.co.uk/scratch3'>Scratch 3</a> disponible desdeMachine Learning for Kids.",
+            "HOW_2": "Los modelos previamente entrenados están disponibles en el panel Extensiones. Haga clic en el botón azul de extensiones en la parte inferior izquierda de la ventana de Scratch para encontrarlos, luego haga clic en el que desea agregar a su proyecto.",
+            "HOW_3": "Los bloques para el modelo pre-entrenado se agregarán a la caja de herramientas de Scratch."
         },
         "SPEECHTOTEXT": {
             "TITLE": "Speech to text",
-            "SPEECH_1": "This model can be used to recognize speech recorded through your microphone.",
-            "SPEECH_2": "It gives you a block you can use to record some audio and then give you the text that it recognized, and a block that you can tell it to listen out for a particular word or phrase.",
-            "SPEECH_3": "It uses the speech recognition capability that comes with Google Chrome, so the ML model that you'll be using comes from Google. (It also means that you can only use this model if you're using the Google Chrome web browser, sorry!)"
+            "SPEECH_1": "Este modelo se puede usar para reconocer un discurso grabado a través de su micrófono.",
+            "SPEECH_2": "Le da un bloque que puede usar para grabar algo de audio y luego le da el texto que reconoció, y un bloque que puede decirle que escuche una palabra o frase en particular.",
+            "SPEECH_3": "Utiliza la capacidad de reconocimiento de voz que viene con Google Chrome, por lo que el modelo ML que usarás proviene de Google. (También significa que solo puede usar este modelo si está usando el navegador web Google Chrome, ¡lo siento!)"
         },
         "FACEAPI": {
-            "TITLE": "Face detection",
-            "FACE_1": "This model can be used to recognize your face in the video feed from your webcam.",
-            "FACE_2": "It gives you blocks that will find the x,y coordinates of your eyes, nose and mouth.",
-            "FACE_3": "The technique this uses is called an SSD (which stands for Single Shot Multibox Detector) and is based on MobileNet (a ML model designed for mobile devices, so it doesn't need much computing power).",
-            "FACE_4": "The training data used for this model came from a set known as <a href='http://shuoyang1213.me/WIDERFACE/' target='_blank'>WIDER FACE</a>."
+            "TITLE": "Detección de rostro",
+            "FACE_1": "Este modelo se puede usar para reconocer su cara en la transmisión de video de su cámara web.",
+            "FACE_2": "Te da bloques que encontrarán las coordenadas x, y de tus ojos, nariz y boca.",
+            "FACE_3": "La técnica que utiliza se llama SSD (que significa Detector multibox de disparo único) y se basa en MobileNet (un modelo ML diseñado para dispositivos móviles, por lo que no necesita mucha potencia informática).",
+            "FACE_4": "Los datos de entrenamiento utilizados para este modelo provienen de un conjunto conocido como <a href='http://shuoyang1213.me/WIDERFACE/' target='_blank'>WIDER FACE</a>."
         },
         "IDEAS": {
-            "TITLE": "What else?",
-            "IDEAS_1": "Are there other machine learning models you would like to be able to use in your Scratch projects?",
-            "IDEAS_2": "Let me know by asking in the <a href='https://groups.google.com/d/forum/mlforkids'>ML for Kids forum</a>."
+            "TITLE": "¿Qué más?",
+            "IDEAS_1": "¿Existen otros modelos de aprendizaje automático que le gustaría poder usar en sus proyectos Scratch?",
+            "IDEAS_2": "Hazmelo saber preguntando en <a href='https://groups.google.com/d/forum/mlforkids'>ML for Kids forum</a>."
         }
     }
 }
